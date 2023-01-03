@@ -1,4 +1,4 @@
-# C# Style
+# C# Style Guide
 
 <!-- TABLE OF CONTENTS -->
 <details>
