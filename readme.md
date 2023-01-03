@@ -5,6 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#pascal-case">Pascal case</a></li>
+    <li><a href="#camel-case">Camel case</a></li>
     <li><a href="#string-data-type">String data type</a></li>
     <li><a href="#Implicitly-typed-local-variables">Implicitly typed local variables</a></li>
     <li><a href="#mysql-migrations">MySQL Migrations</a></li>
